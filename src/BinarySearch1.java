@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/find-peak-element/
+//162. Find Peak Element
 public int findPeakElement(int[] nums) {
     int lo = 0, hi = nums.length-1;
 
